@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello, I'm Abayomi Olagunju 👋
 
-<!--
-**jerryola1/jerryola1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub Profile!
 
-Here are some ideas to get you started:
+🎓 I'm currently a student based in the UK, into full-stack web development, Machine learning, Data Science and RAG Applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 As a blogger and developer, I'm always exploring new technologies and techniques to enhance my skills and share my findings.
+
+🔍 I'm passionate about writing clean, efficient code and am continuously working on projects that challenge me.
+
+🌐 You can check out my blogs where I share everything I learn on [My Portfolio](https://abayomiolagunju.com/).
+
+🎯 My goal is to make an impact through coding and content, helping others learn and grow in the tech community.
+
+🛠️ **Tech Stack:** HTML, CSS, JavaScript, React, Node.js, Express, Python, MySQL, PHP, Laravel, Wordpress.
+
+## Projects
+
+
+## Let's Connect!
+Feel free to reach out if you have any questions, want to collaborate on a project, or just want to connect!
+- [GitHub](https://github.com/jerryola1)
+- [LinkedIn](https://www.linkedin.com/in/jerryola1)
+- [Twitter](https://twitter.com/jerolagu)
+
+Thank you for visiting my GitHub profile! 🌟
