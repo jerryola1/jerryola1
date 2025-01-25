@@ -8,7 +8,7 @@
 
 🔍 I'm passionate about writing clean, efficient code and am continuously working on projects that challenge me.
 
-🌐 You can check out my blogs where I share everything I learn on [My Portfolio](https://abayomiolagunju.com/).
+🌐 You can check out my blogs where I share everything I learn on [My Portfolio](https://abayomiolagunju.net/).
 
 🎯 My goal is to make an impact through coding and content, helping others learn and grow in the tech community.
 
