@@ -22,5 +22,3 @@ Feel free to reach out if you have any questions, want to collaborate on a proje
 - [GitHub](https://github.com/jerryola1)
 - [LinkedIn](https://www.linkedin.com/in/jerryola1)
 - [Twitter](https://twitter.com/jerolagu)
-
-Thank you for visiting my GitHub profile! 🌟
