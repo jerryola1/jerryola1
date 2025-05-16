@@ -12,7 +12,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jerryola1&theme=radical)](https://git.io/streak-stats)
 
-🎓 I'm currently a student based in the UK, into full-stack web development, Machine learning, Data Science and RAG Applications.
+🎓 I'm a graduate of Artificial Intelligence and Data science (Msc), into full-stack web development, Machine learning, Data Science and LLM.
 
 💻 As a blogger and developer, I'm always exploring new technologies and techniques to enhance my skills and share my findings.
 
