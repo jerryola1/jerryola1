@@ -1,4 +1,4 @@
-# Hello, I'm Abayomi Olagunju 👋
+# Hello, I'm Abayomi Olagunju
 
 ## Welcome to my GitHub Profile!
 
@@ -12,17 +12,17 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jerryola1&theme=radical)](https://git.io/streak-stats)
 
-🎓 I'm a graduate of Artificial Intelligence and Data science (Msc), into full-stack web development, Machine learning, Data Science and LLM.
+ I'm a graduate of Artificial Intelligence and Data science (Msc), into full-stack web development, Machine learning, Data Science and LLM.
 
-💻 As a blogger and developer, I'm always exploring new technologies and techniques to enhance my skills and share my findings.
+ As a blogger and developer, I'm always exploring new technologies and techniques to enhance my skills and share my findings.
 
-🔍 I'm passionate about writing clean, efficient code and am continuously working on projects that challenge me.
+ I'm passionate about writing clean, efficient code and am continuously working on projects that challenge me.
 
-🌐 You can check out my blogs where I share everything I learn on [My Portfolio](https://abayomiolagunju.net/).
+ You can check out my blogs where I share everything I learn on [My Portfolio](https://abayomiolagunju.net/).
 
-🎯 My goal is to make an impact through coding and content, helping others learn and grow in the tech community.
+ My goal is to make an impact through coding and content, helping others learn and grow in the tech community.
 
-🛠️ **Tech Stack:** HTML, CSS, JavaScript, React, Node.js, Express, Python, MySQL, PHP, Laravel, Wordpress.
+ **Tech Stack:** HTML, CSS, JavaScript, React, Node.js, Express, Python, MySQL, PHP, Laravel, Wordpress.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
