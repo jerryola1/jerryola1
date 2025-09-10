@@ -1,7 +1,5 @@
 # Hello, I'm Abayomi Olagunju
 
-## Welcome to my GitHub Profile!
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+specializing+in+Backend+solutions;Passionate+Machine+Learning+Practitioner;Building+innovative+RAG+Applications.&center=true&width=800&height=100)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jerryola1)](https://github.com/ryo-ma/github-profile-trophy)
@@ -14,14 +12,8 @@
 
  I'm a graduate of Artificial Intelligence and Data science (Msc), into full-stack web development, Machine learning, Data Science and LLM.
 
- As a blogger and developer, I'm always exploring new technologies and techniques to enhance my skills and share my findings.
-
- I'm passionate about writing clean, efficient code and am continuously working on projects that challenge me.
-
- You can check out my blogs where I share everything I learn on [My Portfolio](https://abayomiolagunju.net/).
-
- My goal is to make an impact through coding and content, helping others learn and grow in the tech community.
-
+ Portfolio [My Portfolio](https://abayomiolagunju.net/).
+ 
  **Tech Stack:** HTML, CSS, JavaScript, React, Node.js, Express, Python, MySQL, PHP, Laravel, Wordpress.
 
 <p align="left">
