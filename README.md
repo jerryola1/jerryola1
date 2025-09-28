@@ -10,11 +10,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jerryola1&theme=radical)](https://git.io/streak-stats)
 
- I'm a graduate of Artificial Intelligence and Data science (Msc), into full-stack web development, Machine learning, Data Science and LLM.
+ Artificial Intelligence and Data science (Msc), into full-stack web development, Machine learning, Data Science and LLM.
 
  Portfolio [My Portfolio](https://abayomiolagunju.net/).
  
- **Tech Stack:** HTML, CSS, JavaScript, React, Node.js, Express, Python, MySQL, PHP, Laravel, Wordpres
+ **Tech Stack:** HTML, CSS, JavaScript, React, Node.js, Express, Python, MySQL, PHP, Laravel, Wordpress
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
