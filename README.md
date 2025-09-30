@@ -1,4 +1,4 @@
-# Hello, I'm Abayomi Olagunju
+## Hello, I'm Abayomi Olagunju
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+specializing+in+Backend+solutions;Passionate+Machine+Learning+Practitioner;Building+innovative+RAG+Applications.&center=true&width=800&height=100)](https://git.io/typing-svg)
 
