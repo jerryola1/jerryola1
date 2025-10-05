@@ -38,7 +38,7 @@
 ## Projects
 
 
-## Let's Connect!
+### Let's Connect!
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to connect!
 - [GitHub](https://github.com/jerryola1)
 - [LinkedIn](https://www.linkedin.com/in/jerryola1)
