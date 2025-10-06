@@ -1,6 +1,6 @@
 ## Hello, I'm Abayomi Olagunju
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+specializing+in+Backend+solutions;Passionate+Machine+Learning+Practitioner;Building+innovative+RAG+Applications.&center=true&width=800&height=100)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+specializing+in+Backend+solutions;Passionate+Machine+Learning+Expert;Building+innovative+RAG+Applications.&center=true&width=800&height=100)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jerryola1)](https://github.com/ryo-ma/github-profile-trophy)
 
