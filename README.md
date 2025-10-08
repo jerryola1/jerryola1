@@ -12,7 +12,7 @@
 
  Artificial Intelligence and Data science (Msc), into full-stack web development, Machine learning, Data Science and LLM.
 
- Portfolio [My Portfolio](https://abayomiolagunju.net/).
+ Portfolio [My Portfolio](https://abayomiolagunju.net/)
  
  **Tech Stack:** HTML, CSS, JavaScript, React, Node.js, Express, Python, MySQL, PHP, Laravel
 <p align="left">
